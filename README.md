@@ -371,6 +371,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official MongoDB driver for Python.
 - [SQLiteviz](https://github.com/lana-k/sqliteviz) - A tool for exploring SQLite databases and visualizing the results of your queries.
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+- [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS viewer for read-only SQLite tables and schema, alongside CSV tables and JSON trees.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
 - [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE for exploring, migrating, and syncing PostgreSQL, MySQL, files, and S3.
